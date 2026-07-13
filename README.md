@@ -28,8 +28,13 @@ In This I will explore some Important Program..
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Akshay-Gupt-a/DSA/tree/master/0070-climbing-stairs) |
+| [0746-min-cost-climbing-stairs](https://github.com/Akshay-Gupt-a/DSA/tree/master/0746-min-cost-climbing-stairs) |
 ## Memoization
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Akshay-Gupt-a/DSA/tree/master/0070-climbing-stairs) |
+## Array
+|  |
+| ------- |
+| [0746-min-cost-climbing-stairs](https://github.com/Akshay-Gupt-a/DSA/tree/master/0746-min-cost-climbing-stairs) |
 <!---LeetCode Topics End-->
