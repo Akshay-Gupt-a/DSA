@@ -20,4 +20,16 @@ In This I will explore some Important Program..
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Akshay-Gupt-a/DSA/tree/master/0094-binary-tree-inorder-traversal) |
+## Math
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Akshay-Gupt-a/DSA/tree/master/0070-climbing-stairs) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Akshay-Gupt-a/DSA/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Akshay-Gupt-a/DSA/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
