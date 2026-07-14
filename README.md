@@ -12,14 +12,17 @@ In This I will explore some Important Program..
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Akshay-Gupt-a/DSA/tree/master/0094-binary-tree-inorder-traversal) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Akshay-Gupt-a/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Akshay-Gupt-a/DSA/tree/master/0094-binary-tree-inorder-traversal) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Akshay-Gupt-a/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Akshay-Gupt-a/DSA/tree/master/0094-binary-tree-inorder-traversal) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Akshay-Gupt-a/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 ## Math
 |  |
 | ------- |
@@ -39,4 +42,8 @@ In This I will explore some Important Program..
 | ------- |
 | [0198-house-robber](https://github.com/Akshay-Gupt-a/DSA/tree/master/0198-house-robber) |
 | [0746-min-cost-climbing-stairs](https://github.com/Akshay-Gupt-a/DSA/tree/master/0746-min-cost-climbing-stairs) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Akshay-Gupt-a/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 <!---LeetCode Topics End-->
