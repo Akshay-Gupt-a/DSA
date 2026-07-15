@@ -1,17 +1,22 @@
 class Solution {
 public:
     int findMax(vector<int>&nums,int idx,vector<int>&dp){
-        if(idx==0 || idx==1){
+        if(idx==0 ){
             return nums[idx];
         }
-        if(dp[idx]!=-1) return dp[idx];
-        int result = INT_MIN;
-        for(int i = 2; (idx-i)>=0  ;i++){
-            int value = findMax(nums,idx-i,dp)+nums[idx];
-            result= max(value,result);
+        if(idx<0){
+            return 0;
         }
-        dp[idx]=result;
-        return result;
+        if(dp[idx]!=-1) return dp[idx];
+        
+       int  pick=nums[idx]+findMax(nums,idx-2,dp);;
+        int notPick ;
+        // if(idx-1>=0){
+            notPick =findMax(nums,idx-1,dp);
+        // }
+        
+        dp[idx]=max(pick,notPick);
+        return dp[idx];
     }
     int rob(vector<int>& nums) {
         int n= nums.size();
@@ -22,8 +27,9 @@ public:
             return nums[0];
         }
         vector<int>dp(n+1,-1);
-        int first=findMax(nums,n-1,dp);
-        int second = findMax(nums,n-2,dp);
-        return max(first,second);
+        // int first=findMax(nums,n-1,dp);
+        // int second = findMax(nums,n-2,dp);
+        return findMax(nums,n-1,dp);
+        
     }
 };
