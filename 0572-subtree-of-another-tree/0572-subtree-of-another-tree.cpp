@@ -18,13 +18,10 @@ public:
         return ((isIdentical(root->left,subRoot->left)&& isIdentical(root->right, subRoot->right) )&& root->val==subRoot->val);
     }
     bool isSubtree(TreeNode* root, TreeNode* subRoot) {
-       if(root==NULL ){
-        return false;
-       }
-       if(root->val == subRoot->val){
-         if(isIdentical(root,subRoot)){
+       if( root==NULL || subRoot ==NULL ) return root==subRoot;
+
+       if(root->val == subRoot->val && isIdentical(root,subRoot)){
             return true;
-         }
        }
        return  (isSubtree(root->left,subRoot) || isSubtree(root->right,subRoot));
     }
