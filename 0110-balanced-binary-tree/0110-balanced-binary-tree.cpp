@@ -24,7 +24,7 @@ public:
          if(abs(leftDepth-rightDepth)>1){
             return -1;
          }
-        return (max(maxDepth(root->left),maxDepth(root->right))+1);
+        return (max(leftDepth,rightDepth)+1);
     }
    
     bool isBalanced(TreeNode* root) {
