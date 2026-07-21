@@ -19,6 +19,7 @@ In This I will explore some Important Program..
 | [0110-balanced-binary-tree](https://github.com/Akshay-Gupt-a/DSA/tree/master/0110-balanced-binary-tree) |
 | [0222-count-complete-tree-nodes](https://github.com/Akshay-Gupt-a/DSA/tree/master/0222-count-complete-tree-nodes) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Akshay-Gupt-a/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/Akshay-Gupt-a/DSA/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/Akshay-Gupt-a/DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Akshay-Gupt-a/DSA/tree/master/0572-subtree-of-another-tree) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/Akshay-Gupt-a/DSA/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
@@ -30,6 +31,7 @@ In This I will explore some Important Program..
 | [0104-maximum-depth-of-binary-tree](https://github.com/Akshay-Gupt-a/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Akshay-Gupt-a/DSA/tree/master/0110-balanced-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Akshay-Gupt-a/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/Akshay-Gupt-a/DSA/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/Akshay-Gupt-a/DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Akshay-Gupt-a/DSA/tree/master/0572-subtree-of-another-tree) |
 ## Binary Tree
@@ -43,6 +45,7 @@ In This I will explore some Important Program..
 | [0110-balanced-binary-tree](https://github.com/Akshay-Gupt-a/DSA/tree/master/0110-balanced-binary-tree) |
 | [0222-count-complete-tree-nodes](https://github.com/Akshay-Gupt-a/DSA/tree/master/0222-count-complete-tree-nodes) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Akshay-Gupt-a/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/Akshay-Gupt-a/DSA/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/Akshay-Gupt-a/DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Akshay-Gupt-a/DSA/tree/master/0572-subtree-of-another-tree) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/Akshay-Gupt-a/DSA/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
@@ -88,6 +91,7 @@ In This I will explore some Important Program..
 ## String Matching
 |  |
 | ------- |
+| [0257-binary-tree-paths](https://github.com/Akshay-Gupt-a/DSA/tree/master/0257-binary-tree-paths) |
 | [0572-subtree-of-another-tree](https://github.com/Akshay-Gupt-a/DSA/tree/master/0572-subtree-of-another-tree) |
 ## Hash Function
 |  |
@@ -109,4 +113,8 @@ In This I will explore some Important Program..
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Akshay-Gupt-a/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+## Backtracking
+|  |
+| ------- |
+| [0257-binary-tree-paths](https://github.com/Akshay-Gupt-a/DSA/tree/master/0257-binary-tree-paths) |
 <!---LeetCode Topics End-->
