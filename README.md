@@ -15,6 +15,7 @@ In This I will explore some Important Program..
 | [0100-same-tree](https://github.com/Akshay-Gupt-a/DSA/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Akshay-Gupt-a/DSA/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Akshay-Gupt-a/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Akshay-Gupt-a/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/Akshay-Gupt-a/DSA/tree/master/0110-balanced-binary-tree) |
 | [0222-count-complete-tree-nodes](https://github.com/Akshay-Gupt-a/DSA/tree/master/0222-count-complete-tree-nodes) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Akshay-Gupt-a/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -38,6 +39,7 @@ In This I will explore some Important Program..
 | [0100-same-tree](https://github.com/Akshay-Gupt-a/DSA/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Akshay-Gupt-a/DSA/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Akshay-Gupt-a/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Akshay-Gupt-a/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/Akshay-Gupt-a/DSA/tree/master/0110-balanced-binary-tree) |
 | [0222-count-complete-tree-nodes](https://github.com/Akshay-Gupt-a/DSA/tree/master/0222-count-complete-tree-nodes) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Akshay-Gupt-a/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -64,6 +66,7 @@ In This I will explore some Important Program..
 ## Array
 |  |
 | ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Akshay-Gupt-a/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0198-house-robber](https://github.com/Akshay-Gupt-a/DSA/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Akshay-Gupt-a/DSA/tree/master/0213-house-robber-ii) |
 | [0746-min-cost-climbing-stairs](https://github.com/Akshay-Gupt-a/DSA/tree/master/0746-min-cost-climbing-stairs) |
@@ -98,4 +101,12 @@ In This I will explore some Important Program..
 |  |
 | ------- |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/Akshay-Gupt-a/DSA/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
+## Hash Table
+|  |
+| ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Akshay-Gupt-a/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Akshay-Gupt-a/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 <!---LeetCode Topics End-->
