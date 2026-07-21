@@ -11,36 +11,33 @@
  */
 class Solution {
 public:
-    void pathWays(TreeNode* root, vector<string>&ans,string str){
+    void pathWays(TreeNode* root, vector<string>&ans,string path){
         if(root == NULL)
         return;
-       if(root->left == NULL && root->right == NULL){
-        str+="->";
-        str+=to_string(root->val);
-        ans.push_back(str);
+        
+        if(path.empty()){
+            path+=(to_string(root->val));
+        }
+        else{
+            path+= "->"+to_string(root->val);
+        }
+
+        if(root->left == NULL && root->right == NULL){
+        ans.push_back(path);
         return;
-}
-        str+= "->";
-        str+=to_string(root->val);
-         pathWays(root->left,ans,str);
-         pathWays(root->right,ans,str);
+       }
+
+         pathWays(root->left,ans,path);
+         pathWays(root->right,ans,path);
 
     }
     vector<string> binaryTreePaths(TreeNode* root) {
         if(!root){
-           
             return {};
         }
-             vector<string>ans;
-            if(root->left == NULL && root->right == NULL){
-            ans.push_back( to_string(root->val));
-            return ans;
-            }
-       
-
-        string str = to_string(root->val);
-        pathWays(root->left,ans,str);
-         pathWays(root->right,ans,str);
+        vector<string>ans;
+        string path ="";
+        pathWays(root,ans,path);
         return ans;
     }
 };
